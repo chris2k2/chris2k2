@@ -1,11 +1,11 @@
-![](messagif.gif)
+![](techstack.png)
 
+* 🏸 Creator of www.badminton-elo.de (TechStack is form 01/2020 - keep on learning 💪)
 * 🧐 Interested in architecture and leading teams from a tech perspective
 * 💼 Software Architecture at DATEV e.G.
 * 💻 10+ years experience as Software Architect
 * 🎓 Master of Science with Honours in Computer Science, 1.2 (lower is better in Germany 😉)
-* 📚 Reading more about Team Topologies, DevOps and cloud-native
-* 🏸 Creator of www.badminton-elo.de
+
 
 
 <hr>
