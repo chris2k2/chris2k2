@@ -1,6 +1,6 @@
 ![](techstack.png)
 
-* 🏸 Creator of www.badminton-elo.de (TechStack is form 01/2020 - keep on learning 💪)
+* 🏸 Creator of www.badminton-elo.de (TechStack is form 10/2021 - keep on learning 💪)
 * 🧐 Interested in architecture and leading teams from a tech perspective
 * 💼 Software Architecture and Speaker (checkout SSPES) at DATEV e.G.
 * 💻 10+ years experience as Software Architect
